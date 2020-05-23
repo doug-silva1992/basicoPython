@@ -1,0 +1,1 @@
+print ("Friday"[4])
